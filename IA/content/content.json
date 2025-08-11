@@ -1,0 +1,86 @@
+{
+  "site": {
+    "name": "Gold & Blade Barber Studio",
+    "city": "Charlotte, NC",
+    "heroTitle": "Barber\u00eda premium con estilo contempor\u00e1neo",
+    "heroSubtitle": "Cortes precisos, afeitado cl\u00e1sico y tratamientos. Atenci\u00f3n por cita.",
+    "ctaLabel": "Reservar por WhatsApp",
+    "ctaLink": "https://wa.me/17040000000?text=Hola%20quiero%20agendar%20una%20cita",
+    "heroImageUrl": "https://images.unsplash.com/photo-1503951914875-452162b0f3f1?q=80&w=1600&auto=format&fit=crop"
+  },
+  "services": [
+    {
+      "title": "Corte cl\u00e1sico",
+      "desc": "Corte a tijera o m\u00e1quina, finalizado con producto premium.",
+      "price": 30,
+      "icon": "\ud83d\udc88"
+    },
+    {
+      "title": "Afeitdo cl\u00e1sico",
+      "desc": "Toalla caliente y navaja. Ritual tradicional.",
+      "price": 25,
+      "icon": "\ud83e\ude92"
+    },
+    {
+      "title": "Fade / Skin Fade",
+      "desc": "Degradado preciso y detalles definidos.",
+      "price": 35,
+      "icon": "\u2702\ufe0f"
+    },
+    {
+      "title": "Arreglo de barba",
+      "desc": "Perfilado, hidrataci\u00f3n y acabado con aceite.",
+      "price": 20,
+      "icon": "\ud83e\uddf4"
+    },
+    {
+      "title": "Combo corte + barba",
+      "desc": "Look completo con asesor\u00eda de estilo.",
+      "price": 50,
+      "icon": "\u2b50"
+    }
+  ],
+  "gallery": [
+    {
+      "src": "https://images.unsplash.com/photo-1517837016564-bfc3ffd67455?q=80&w=1200&auto=format&fit=crop",
+      "alt": "Corte moderno fade"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1521590832167-7bcbfaa6381f?q=80&w=1200&auto=format&fit=crop",
+      "alt": "Afeitado cl\u00e1sico con navaja"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?q=80&w=1200&auto=format&fit=crop",
+      "alt": "Detalle de barbero profesional"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1593702295096-16b849d6a1a3?q=80&w=1200&auto=format&fit=crop",
+      "alt": "Interior de barber\u00eda elegante"
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Marcus H.",
+      "quote": "El mejor skin fade que me han hecho. Puntuales y muy detallistas."
+    },
+    {
+      "name": "Javier R.",
+      "quote": "Afeitado cl\u00e1sico impecable. El ambiente es incre\u00edble."
+    },
+    {
+      "name": "Daniel C.",
+      "quote": "Me asesoraron con el estilo. Sal\u00ed con look nuevo y productos top."
+    }
+  ],
+  "about": {
+    "title": "Maestr\u00eda en estilo masculino",
+    "body": "En Gold & Blade combinamos t\u00e9cnicas cl\u00e1sicas con tendencias actuales. Nuestro equipo trabaja con productos de alta gama para lograr acabados precisos y duraderos. Atendemos solo con cita para garantizar una experiencia c\u00f3moda y sin prisas."
+  },
+  "contact": {
+    "phone": "+1 (704) 000-0000",
+    "email": "contacto@goldbladebarber.com",
+    "address": "Uptown, Charlotte, NC",
+    "mapEmbed": "https://maps.google.com/?q=Charlotte,+NC&output=embed",
+    "whatsapp": "https://wa.me/17040000000?text=Hola%20quiero%20agendar%20una%20cita"
+  }
+}

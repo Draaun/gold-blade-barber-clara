@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root { --radius: 1.25rem; }
+.card { @apply rounded-2xl shadow-soft bg-white; }
+.container { @apply max-w-6xl mx-auto px-4; }
+.muted { @apply text-zinc-600; }
